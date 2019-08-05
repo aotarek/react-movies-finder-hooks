@@ -2,6 +2,8 @@
 
 > Movies Finder app using React
 
+# Refactor https://github.com/Lazhari/react-movies-finder to hooks 
+
 [![Build Status](https://travis-ci.org/Lazhari/react-movies-finder.svg?branch=master)](https://travis-ci.org/Lazhari/react-movies-finder)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Lazhari_react-movies-finder&metric=alert_status)](https://sonarcloud.io/dashboard?id=Lazhari_react-movies-finder)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Lazhari_react-movies-finder&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Lazhari_react-movies-finder)
